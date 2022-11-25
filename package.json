@@ -1,5 +1,24 @@
 {
   "dependencies": {
+    "@solana/web3.js": "^1.66.2",
     "cowsay": "^1.5.0"
-  }
+  },
+  "name": "workspace",
+  "description": "",
+  "version": "1.0.0",
+  "main": "airdrop.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/utkarsh-1602/solanaDevPune2022.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/utkarsh-1602/solanaDevPune2022/issues"
+  },
+  "homepage": "https://github.com/utkarsh-1602/solanaDevPune2022#readme"
 }
